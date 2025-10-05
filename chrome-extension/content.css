@@ -1,0 +1,13 @@
+/* Styles for AI Insights tooltip */
+#ai-insight-tooltip {
+  animation: fadeIn 0.15s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
