@@ -69,3 +69,4 @@ build/
 # User-specific files
 user-config.json
 personal-notes.md
+.claude/
